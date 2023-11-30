@@ -22,7 +22,7 @@ The Small Dictionary App is a lightweight and user-friendly dictionary applicati
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/zTouu/Dictionary-Js-Project.git
+    git clone https://github.com/zTouu/Dictionary-Js-mini-Project
     ```
 
 2. Navigate to the project directory:
